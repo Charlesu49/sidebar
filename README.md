@@ -1,5 +1,5 @@
 # SIDEBAR PROJECT
-This projects uses javascript to create a tuggle functionality.
+This projects uses javascript to create a toggle functionality.
 
 ## Functionality
 The page loads as below;
